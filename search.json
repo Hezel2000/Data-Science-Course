@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Quarto Book",
+    "section": "",
+    "text": "Wie dieser Kurs funktoniert\nAn sich sollten die mehr oder weniger selbsterklärend sein: Im ersten Skript steht da zunächst, was in der Einheit dran kommt und warum. Dann folgen die einzelnen Videos (diese anschauen, Notizen machen) mit kurzen schriftlichen Zusammenfassungen und/oder zusätzlichen Erläuterungen. Nach dem Schauen eines Videos wechselt man zum zweiten Skript, und beantwortet die dazu gehörigen Fragen. Das dient der Selbstüberprüfung, ob man alles verstanden hat – daher gibt es dazu auch Lösungen im Skript. Diese Fragen stellen gleichzeitig den Inhalt dar, den man aus diesem Kapitel mitnehmen, d.h. (für die Prüfung sowie das spätere Leben) wissen sollte (soviel ist man den Steuerzahler*innen dann doch schuldig). Dann geht es weiter zum nächsten Kapitel, bis man alle Kapitel der Einheit durch hat. In der Präsenzphase nächste Woche sprechen wir die Instant Reviews/Quiz nicht durch – allerdings können und werden wir natürlich Fragen oder Unklarheiten besprechen. Ansonsten werde ich Übungen mitbringen, welche die gesamte Einheit noch mal in einen Sinnzusammenhang stellt (so der Plan). Mit fortschreitendem Kurs wird der Sinnzusammenhang der Aufgaben dann immer weiter über mehrere/alle Einheiten erweitert, sodass nicht für sich stehende Wissenbrocken gelernt werden, sondern was diese im Zusammenhang bedeuten, bzw. wie wir mit diesen die Erde verstehen, bzw. sich darüber die Geochemie konstituiert. Das ist die Idee der ›Flipped Classroom‹ Methode.",
+    "crumbs": [
+      "Wie dieser Kurs funktoniert"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html",
+    "href": "chapter_1.html",
+    "title": "1  Chapter 1",
+    "section": "",
+    "text": "[1, 2, 3, 4, 5]\n\ndict1 = {\n    'Name': ['Dominik', 'Claudia', 'Chantal', 'Mark'],\n    'Height': [190, 192, 176, 181]  # in cm\n}\n\ndict1\n\n{'Name': ['Dominik', 'Claudia', 'Chantal', 'Mark'],\n 'Height': [190, 192, 176, 181]}\n\n\n\nimport pandas as pd\n\npd.DataFrame(dict1)\n\n\n\n\n\n\n\n\nName\nHeight\n\n\n\n\n0\nDominik\n190\n\n\n1\nClaudia\n192\n\n\n2\nChantal\n176\n\n\n3\nMark\n181\n\n\n\n\n\n\n\n\nimport pandas as pd\n\npd.DataFrame(dict1)\n\ndict2 = {\n    'Name': ['Dominik', 'Claudia', 'Chantal', 'Mark'],\n    'body parameters': {'Height': [190, 192, 176, 181], 'Weight': [94, 92, 71, 105], 'eye colour': ['blue', 'green', 'brown']}\n}\n\ndict2['body parameters']['eye colour'][0]\n\n'blue'\n\n\n\ndict3 = {\n    'animal': 'cat',\n    'name': 'furbal',\n    'vaccinated': 'yes',\n    'born': 2018,\n    'legs': 4\n}\n\ndict3\n\n{'animal': 'cat',\n 'name': 'furbal',\n 'vaccinated': 'yes',\n 'born': 2018,\n 'legs': 4}",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Chapter 1</span>"
+    ]
+  },
+  {
+    "objectID": "example.html",
+    "href": "example.html",
+    "title": "2  Example Notebook",
+    "section": "",
+    "text": "This is an example Jupyter Notebook created programmatically.\nRun this notebook interactively on JupyterLite\nRun this notebook interactively on Binder\n\n3 Open Notebook in JupyterLite\nFor a fully interactive experience, you can open this notebook directly in JupyterLite:\nOpen in JupyterLite\n\n# Define a simple variable\nx = 42\nprint(f'The value of x is {x}')\n\nThe value of x is 42\n\n\n\n# Import a library and plot something\nimport matplotlib.pyplot as plt\n\nplt.plot([1, 2, 3], [4, 5, 6])\nplt.title('Example Plot')\nplt.show()",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Example Notebook</span>"
+    ]
+  },
+  {
+    "objectID": "feedback.html",
+    "href": "feedback.html",
+    "title": "Feedback",
+    "section": "",
+    "text": "für Kommentare, Korrekturen & alles Andere\nDanke für Deinen Beitrag.",
+    "crumbs": [
+      "Feedback"
+    ]
+  }
+]
