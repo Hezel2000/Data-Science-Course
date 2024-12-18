@@ -1,0 +1,10 @@
+# Feedback {.unnumbered}
+## für Kommentare, Korrekturen & alles Andere {.unnumbered}
+
+<form id="commentForm" action="https://formspree.io/f/xkgnnvnz" method="POST">
+  <!-- <label for="comment">xxx</label><br> -->
+  <textarea id="comment" name="comment" rows="4" cols="50" placeholder="Dein Beitrag ..."></textarea><br>
+  <input type="submit" value="Submit">
+</form>
+
+<p id="thankYouMessage" style="display:none;">Danke für Deinen Beitrag.</p>

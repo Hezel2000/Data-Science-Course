@@ -1,0 +1,12 @@
+{
+  "hash": "bf896c9ea83ded95f5b7e8d2e88fcd10",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Example Notebook\njupyter: python3\n---\n\n\n\n\n\nThis is an example Jupyter Notebook created programmatically.\n\n[Run this notebook interactively on JupyterLite](https://jupyterlite.github.io/demo/)  \n[Run this notebook interactively on Binder](https://mybinder.org/v2/gh/<username>/<repo>/HEAD?filepath=example.ipynb)\n\n# Open Notebook in JupyterLite\n\nFor a fully interactive experience, you can open this notebook directly in JupyterLite:\n\n[Open in JupyterLite](https://jupyterlite.github.io/demo/lab?path=https://raw.githubusercontent.com/Hezel2000/Data_Science_Short_Course/main/jupyter_nb/Basics_Dictionary_another_type_of_list.ipynb)\n\n::: {#ff2a6439 .cell execution_count=1}\n``` {.python .cell-code}\n# Define a simple variable\nx = 42\nprint(f'The value of x is {x}')\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nThe value of x is 42\n```\n:::\n:::\n\n\n::: {#1a573627 .cell execution_count=2}\n``` {.python .cell-code}\n# Import a library and plot something\nimport matplotlib.pyplot as plt\n\nplt.plot([1, 2, 3], [4, 5, 6])\nplt.title('Example Plot')\nplt.show()\n```\n\n::: {.cell-output .cell-output-display}\n![](example_files/figure-html/cell-3-output-1.png){width=579 height=431}\n:::\n:::\n\n\n",
+    "supporting": [
+      "example_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

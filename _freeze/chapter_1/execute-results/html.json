@@ -1,0 +1,16 @@
+{
+  "hash": "3d361b80c27f2b5e48663574bea1d4c9",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\nfilters:\n  - naquiz\n---\n\n\n\n\n\n# Chapter 1\n<!-- # Dictionary – another type of list -->\n\n::: {#4462ba3a .cell execution_count=1}\n``` {.python .cell-code}\n[1, 2, 3, 4, 5]\n\ndict1 = {\n    'Name': ['Dominik', 'Claudia', 'Chantal', 'Mark'],\n    'Height': [190, 192, 176, 181]  # in cm\n}\n\ndict1\n```\n\n::: {.cell-output .cell-output-display execution_count=13}\n```\n{'Name': ['Dominik', 'Claudia', 'Chantal', 'Mark'],\n 'Height': [190, 192, 176, 181]}\n```\n:::\n:::\n\n\n::: {#2911bcb1 .cell execution_count=2}\n``` {.python .cell-code}\nimport pandas as pd\n\npd.DataFrame(dict1)\n```\n\n::: {.cell-output .cell-output-display execution_count=14}\n```{=html}\n<div>\n<style scoped>\n    .dataframe tbody tr th:only-of-type {\n        vertical-align: middle;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n\n    .dataframe thead th {\n        text-align: right;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>Name</th>\n      <th>Height</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>Dominik</td>\n      <td>190</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>Claudia</td>\n      <td>192</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>Chantal</td>\n      <td>176</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>Mark</td>\n      <td>181</td>\n    </tr>\n  </tbody>\n</table>\n</div>\n```\n:::\n:::\n\n\n::: {#22eb5574 .cell execution_count=3}\n``` {.python .cell-code}\nimport pandas as pd\n\npd.DataFrame(dict1)\n\ndict2 = {\n    'Name': ['Dominik', 'Claudia', 'Chantal', 'Mark'],\n    'body parameters': {'Height': [190, 192, 176, 181], 'Weight': [94, 92, 71, 105], 'eye colour': ['blue', 'green', 'brown']}\n}\n\ndict2['body parameters']['eye colour'][0]\n```\n\n::: {.cell-output .cell-output-display execution_count=15}\n```\n'blue'\n```\n:::\n:::\n\n\n::: {#645e930d .cell execution_count=4}\n``` {.python .cell-code}\ndict3 = {\n    'animal': 'cat',\n    'name': 'furbal',\n    'vaccinated': 'yes',\n    'born': 2018,\n    'legs': 4\n}\n\ndict3\n```\n\n::: {.cell-output .cell-output-display execution_count=16}\n```\n{'animal': 'cat',\n 'name': 'furbal',\n 'vaccinated': 'yes',\n 'born': 2018,\n 'legs': 4}\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "chapter_1_files"
+    ],
+    "filters": [],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js\" integrity=\"sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==\" crossorigin=\"anonymous\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js\" integrity=\"sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==\" crossorigin=\"anonymous\" data-relocate-top=\"true\"></script>\n<script type=\"application/javascript\">define('jquery', [],function() {return window.jQuery;})</script>\n"
+      ]
+    }
+  }
+}

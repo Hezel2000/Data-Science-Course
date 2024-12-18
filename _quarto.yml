@@ -1,0 +1,69 @@
+project:
+  type: book
+
+book:
+  title: "My Quarto Book"
+  author: "Your Name"
+  chapters:
+    - index.qmd
+    - chapter_1.qmd
+    - example.qmd  # Converted notebook
+    - feedback.qmd
+
+execute:
+  enabled: true
+
+# project:
+#   type: book
+
+# book:
+#   title: "Data Science"
+#   author: "Dominik Hezel"
+#   date: "04/13/2025"
+#   chapters:
+#     - index.qmd
+#     - chapter_1.qmd
+#     - example.qmd
+
+
+
+
+    # - chapter_2.qmd
+    # - chapter_3.qmd
+    # - chapter_4.qmd
+    # - chapter_5.qmd
+    # - chapter_6.qmd
+    # - chapter_7.qmd
+    # - references.qmd
+    # - game_oral_exams.qmd
+    # - mock_exam.qmd 
+    # - feedback.qmd
+    # - test.qmd
+    # - quiz.qmd
+
+# bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  # pdf:
+  #   documentclass: scrreprt
+
+
+# project:
+#   type: website
+
+# website:
+#   title: "today"
+#   navbar:
+#     left:
+#       - href: index.qmd
+#         text: Home
+#       - about.qmd
+#       - quiz.qmd
+
+# format:
+#   html:
+#     theme: cosmo
+#     css: styles.css
+#     toc: true

@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "d738aeaa"
+  },
+  "chapter_1.qmd": {
+    "chapter_1.html": "93eed6d3"
+  },
+  "chapter_2.qmd": {
+    "chapter_2.html": "cbea162d"
+  },
+  "example.qmd": {
+    "example.html": "6dd25478"
+  },
+  "feedback.qmd": {
+    "feedback.html": "a9253587"
+  }
+}

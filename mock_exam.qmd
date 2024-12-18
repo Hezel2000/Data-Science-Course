@@ -1,0 +1,31 @@
+# Probeklausur
+
+## Sinn und Zweck dieser Übung
+
+**Sinn**  
+Es gibt diese Probeklausur, damit Du eine Idee davon bekommst, was Dich bei der echten Klausur erwartet. Als Vorbereitung dafür gibt es keine weiteren Inhalte oder Videos – sondern wiederhole alles, das wir bislang durchgegangen sind und geübt haben.
+
+**Ablauf**  
+Die Klausur dauert *ca. 50 min.*, also etwas länger oder kürzer als im Modul vorgegeben, je nachdem ob Du Dir den Kurs für BSc (30 min als möglicher Teil einer kumulativen Modulabschlussklausur; <span style="color: teal; font-weight: bold;">max. Punktzahl: 33</span>) oder MSc (90 min als mögliche exemplarische Modulabschlussklausur; <span style="color: teal; font-weight: bold;">max. Punktzahl: 100</span>) anrechnen lässt. Du schreibst die Klausur für Dich allein. Schummeln wird nicht kontrolliert, diese Probeklausur dient allein Deiner eigenen Einschätzung.  
+Anschließend kommst Du in eine 2er oder 3er Gruppe, erhältst die Lösung für die Klausur, und Ihr korrigiert gegenseitig Eure Klausuren. Das sollte **ca. 15 min** dauern.
+
+**Halb-Finale**  
+Zum Abschluss haben wir knapp **30 min.** Zeit die Klausur gemeinsam durchzusprechen, allgemeine Fragen zu stellen und zu beantworten, oder letzte Unklarheiten auszuräumen.
+
+## Fünf Beispiel-Fragen für die Vorbereitung (<span style="color: teal;">Gesamtpunktzahl: 33</span>)  
+Notwendige Unterlagen wie z.B. Tabellen zum Nachschlagen werden zur Verfügung gestellt.
+
+Frage 1 (<span style="color: teal; font-weight: bold;">5 Punkte</span>)  
+Nenne 2 Elementpaare (also 2 x 2 Elemente) deren charakteristische Röntgenstrahlung möglicherweise eine Linienüberlagerung zeigen könnten.
+
+Frage 2 (<span style="color: teal; font-weight: bold;">5 Punkte</span>)  
+Worin können sich Proben ähneln und/oder unterscheiden die mit der EPMA oder mit dem REM untersucht werden.
+
+Frage 3 (<span style="color: teal; font-weight: bold;">8 Punkte / 3 Punkte</span>)  
+Erkläre schematisch die Funktionsweise des Gaszählers. Wozu wird dieser verwendet?
+
+Frage 4 (<span style="color: teal; font-weight: bold;">4 Punkte</span>)  
+Wie hoch sollte die Beschleunigungsspannung sein um Hf,Lα anzuregen? Und wie hoch der Strom?
+
+Frage 5 (<span style="color: teal; font-weight: bold;">8 Punkte</span>)  
+Elemente mit charakteristischer Linien höherer Ordnung können die charakteristischen Linien anderer Elementen überlagern. (i) An welcher Stelle in der EPMA, und (ii) wie können diese Linien höherer Ordnung von der Zählung ausgeschlossen werden.

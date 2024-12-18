@@ -1,0 +1,33 @@
+---
+title: Example Notebook
+jupyter: python3
+---
+
+This is an example Jupyter Notebook created programmatically.
+
+[Run this notebook interactively on JupyterLite](https://jupyterlite.github.io/demo/)  
+[Run this notebook interactively on Binder](https://mybinder.org/v2/gh/<username>/<repo>/HEAD?filepath=example.ipynb)
+
+# Open Notebook in JupyterLite
+
+For a fully interactive experience, you can open this notebook directly in JupyterLite:
+
+[Open in JupyterLite](https://jupyterlite.github.io/demo/lab?path=https://raw.githubusercontent.com/Hezel2000/Data_Science_Short_Course/main/jupyter_nb/Basics_Dictionary_another_type_of_list.ipynb)
+
+
+
+```{python}
+# Define a simple variable
+x = 42
+print(f'The value of x is {x}')
+```
+
+```{python}
+# Import a library and plot something
+import matplotlib.pyplot as plt
+
+plt.plot([1, 2, 3], [4, 5, 6])
+plt.title('Example Plot')
+plt.show()
+```
+

@@ -1,0 +1,49 @@
+---
+filters:
+  - naquiz
+---
+
+# Chapter 1
+<!-- # Dictionary – another type of list -->
+
+```{python}
+[1, 2, 3, 4, 5]
+
+dict1 = {
+    'Name': ['Dominik', 'Claudia', 'Chantal', 'Mark'],
+    'Height': [190, 192, 176, 181]  # in cm
+}
+
+dict1
+```
+
+```{python}
+import pandas as pd
+
+pd.DataFrame(dict1)
+```
+
+```{python}
+import pandas as pd
+
+pd.DataFrame(dict1)
+
+dict2 = {
+    'Name': ['Dominik', 'Claudia', 'Chantal', 'Mark'],
+    'body parameters': {'Height': [190, 192, 176, 181], 'Weight': [94, 92, 71, 105], 'eye colour': ['blue', 'green', 'brown']}
+}
+
+dict2['body parameters']['eye colour'][0]
+```
+
+```{python}
+dict3 = {
+    'animal': 'cat',
+    'name': 'furbal',
+    'vaccinated': 'yes',
+    'born': 2018,
+    'legs': 4
+}
+
+dict3
+```
