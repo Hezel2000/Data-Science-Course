@@ -24,7 +24,7 @@
     "href": "example.html",
     "title": "2  Example Notebook",
     "section": "",
-    "text": "This is an example Jupyter Notebook created programmatically.\nRun this notebook interactively on JupyterLite\nRun this notebook interactively on Binder\n\n3 Open Notebook in JupyterLite\nFor a fully interactive experience, you can open this notebook directly in JupyterLite:\nOpen in JupyterLite\nOpen in JupyterLite\n\n# Define a simple variable\nx = 42\nprint(f'The value of x is {x}')\n\nThe value of x is 42\n\n\n\n# Import a library and plot something\nimport matplotlib.pyplot as plt\n\nplt.plot([1, 2, 3], [4, 5, 6])\nplt.title('Example Plot')\nplt.show()",
+    "text": "This is an example Jupyter Notebook created programmatically.\nRun this notebook interactively on JupyterLite\nRun this notebook interactively on Binder\n\n3 Open Notebook in JupyterLite\nFor a fully interactive experience, you can open this notebook directly in JupyterLite:\nOpen in JupyterLite\nOpen this in JupyterLite\nOpen now this in JupyterLite\n\n# Define a simple variable\nx = 42\nprint(f'The value of x is {x}')\n\nThe value of x is 42\n\n\n\n# Import a library and plot something\nimport matplotlib.pyplot as plt\n\nplt.plot([1, 2, 3], [4, 5, 6])\nplt.title('Example Plot')\nplt.show()",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Example Notebook</span>"
     ]
