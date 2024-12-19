@@ -12,8 +12,11 @@ This is an example Jupyter Notebook created programmatically.
 
 For a fully interactive experience, you can open this notebook directly in JupyterLite:
 
-[Open in JupyterLite](https://jupyterlite.github.io/demo/lab?path=https://raw.githubusercontent.com/Hezel2000/Data_Science_Short_Course/main/jupyter_nb/Basics_Dictionary_another_type_of_list.ipynb)
+[Open in JupyterLite](https://jupyterlite.github.io/demo/lab?path=https://raw.githubusercontent.com/Hezel2000/Data-Science-Course/gh-pages/nb_files/test.ipynb)
 
+[Open in JupyterLite](https://jupyterlite.github.io/demo/lab?path=https%3A%2F%2Fraw.githubusercontent.com%2FHezel2000%2FData-Science-Course%2Fgh-pages%2Fnb_files%2Ftest.ipynb)
+
+[Open in JupyterLite](https://jupyterlite.github.io/demo/lab?path=https://raw.githubusercontent.com/Hezel2000/Data-Science-Course/gh-pages/nb_files/test.ipynb)
 
 
 ```{python}

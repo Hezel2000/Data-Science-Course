@@ -1,6 +1,11 @@
 project:
   type: book
 
+resources:
+  - nb_files/**
+  - jupyterlite/**
+  - jupyterlite/_output/**
+
 book:
   title: "My Quarto Book"
   author: "Your Name"
@@ -9,6 +14,7 @@ book:
     - chapter_1.qmd
     - example.qmd  # Converted notebook
     - feedback.qmd
+
 
 execute:
   enabled: true
