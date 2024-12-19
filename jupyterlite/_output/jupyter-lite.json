@@ -27,6 +27,12 @@
       },
       {
         "extension": "./extension",
+        "liteExtension": true,
+        "load": "static/remoteEntry.731d4191557fd12b02be.js",
+        "name": "@jupyterlite/pyodide-kernel-extension"
+      },
+      {
+        "extension": "./extension",
         "liteExtension": false,
         "load": "static/remoteEntry.011187800436390ae91a.js",
         "name": "@pyviz/jupyterlab_pyviz",
@@ -315,7 +321,14 @@
     },
     "fullLabextensionsUrl": "./extensions",
     "fullStaticUrl": "./build",
-    "licensesUrl": "./lab/api/licenses"
+    "licensesUrl": "./lab/api/licenses",
+    "litePluginSettings": {
+      "@jupyterlite/pyodide-kernel-extension:kernel": {
+        "pipliteUrls": [
+          "./extensions/@jupyterlite/pyodide-kernel-extension/static/pypi/all.json?sha256=9459f4934cac5fe86c955625b1c3e6459c2b715049f56814971a2536b0ad49c0"
+        ]
+      }
+    }
   },
   "jupyter-lite-schema-version": 0
 }
