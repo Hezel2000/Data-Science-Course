@@ -1,0 +1,18 @@
+{
+  "jupyter-config-data": {
+    "appName": "JupyterLite",
+    "appUrl": "/consoles",
+    "appVersion": "0.5.0-alpha.0",
+    "baseUrl": "./",
+    "defaultKernelName": "python",
+    "faviconUrl": "./favicon.ico",
+    "federated_extensions": [],
+    "fullLabextensionsUrl": "./extensions",
+    "fullStaticUrl": "../build",
+    "licensesUrl": "./lab/api/licenses",
+    "notebookPage": "consoles",
+    "settingsUrl": "../build/schemas",
+    "themesUrl": "./build/themes"
+  },
+  "jupyter-lite-schema-version": 0
+}
