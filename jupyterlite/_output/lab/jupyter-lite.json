@@ -4,6 +4,17 @@
     "appUrl": "./lab",
     "contentsUrl": "./content",
     "settingsUrl": "./lab/build/schemas",
-    "themesUrl": "./lab/build/themes"
+    "themesUrl": "./lab/build/themes",
+    "litePluginSettings": {
+      "@jupyterlite/pyolite-kernel-extension:kernel": {
+        "kernelspecs": {
+          "python": {
+            "name": "python",
+            "display_name": "Python 3 (Pyodide)",
+            "language": "python"
+          }
+        }
+      }
+    }
   }
 }
